@@ -1,3 +1,7 @@
+### Hosted on gh-pages
+
+https://anjanavishvanath.github.io/Recepie-App/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
