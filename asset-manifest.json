@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Recepie-App/static/css/main.3eddf8ef.css",
+    "main.js": "/Recepie-App/static/js/main.15be75d0.js",
+    "index.html": "/Recepie-App/index.html",
+    "main.3eddf8ef.css.map": "/Recepie-App/static/css/main.3eddf8ef.css.map",
+    "main.15be75d0.js.map": "/Recepie-App/static/js/main.15be75d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3eddf8ef.css",
+    "static/js/main.15be75d0.js"
+  ]
+}
